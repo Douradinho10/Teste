@@ -1,3 +1,3 @@
-# Teste
+Link da página- https://satisfacao-analise--Douradinho10.replit.app
 
-Este repositório contém o projeto TesteV1.
+Link da página de administrador- https://satisfacao-analise--Douradinho10.replit.app/admin-dashboard
